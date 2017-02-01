@@ -1,0 +1,23 @@
+{
+  "name": "vue-example",
+  "version": "1.0.0",
+  "description": "An example app for vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subii/vue-example.git"
+  },
+  "keywords": [
+    "vue",
+    "example"
+  ],
+  "author": "subeesh chothendavida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subii/vue-example/issues"
+  },
+  "homepage": "https://github.com/subii/vue-example#readme"
+}
